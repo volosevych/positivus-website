@@ -1,5 +1,4 @@
 import React from 'react'
-import { Element } from 'react-scroll'
 import Title from '../components/Title'
 import { caseStudies } from '../constants'
 
