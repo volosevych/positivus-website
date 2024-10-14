@@ -6,7 +6,7 @@ import Title from '../components/Title';
 const Services = () => {
   return <section>
   <Element name='Services'>
-      <div className='flex justify-center flex-col pt-40 container'>
+      <div className='flex justify-center flex-col container'>
           <Title sectionId={0}/>
           <div className='flex justify-center items-center w-full mt-20 max-lg:px-3'>
               <div className='grid grid-cols-1 max-lg:grid-cols-1 max-md:grid-cols-1  md:grid-cols-2 lg:grid-cols-2 gap-10 max-md:gap-5'> {/* Use grid instead of flex */}

@@ -3,7 +3,7 @@ import './App.css'
 import { steps, testimonials } from './constants';
 
 import { Header, Hero, Companies, Services, 
-  Proposal, Studies, WorkingProcess, Team, Testimonials, ContactUs} from './sections/index';
+  Proposal, Studies, WorkingProcess, Team, Testimonials, ContactUs, Footer} from './sections/index';
 
 const App = () => {
   return (
@@ -18,6 +18,7 @@ const App = () => {
       <Team/>
       <Testimonials testimonials={testimonials}/>
       <ContactUs/>
+      <Footer/>
     </>
   )
 }

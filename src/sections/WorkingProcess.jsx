@@ -1,4 +1,5 @@
 import React, {useState} from 'react'
+import { Element } from 'react-scroll';
 import Title from '../components/Title'
 
 import PlusIcon from '../toggleIcons/minus.svg';
@@ -11,9 +12,9 @@ const WorkingProcess = ({ steps }) => {
         setActiveIndex(index === activeIndex ? null : index);
     }
     
-  return (
-    <section>
-        <div className='container'>
+  return <section>
+    <Element name='Use Cases'>
+    <div className='container'>
             <div className='mb-20'>
                 <Title sectionId={2}/>
             </div>
@@ -60,8 +61,9 @@ const WorkingProcess = ({ steps }) => {
       ))}
     </div>
         </div>
+    </Element>
+        
     </section>
-  )
 }
 
 export default WorkingProcess

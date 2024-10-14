@@ -84,11 +84,11 @@ const Header = () => {
               </li>
 
               <li>
-                <NavLink title="Pricing" />
+                <NavLink title="Team" />
               </li>
 
               <li>
-                <NavLink title="Blog" />
+                <NavLink title="Contact Us" />
               </li>
 
               <li>

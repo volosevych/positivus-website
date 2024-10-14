@@ -6,6 +6,8 @@ export default {
         p1: '#B9FF66',
         p2: '#191A23',
         p3: '#F3F3F3',
+        p4: '#292A32',
+        p5: '#898989',
       },
       boxShadow: {
         100: '0px 4px 4px rgba(0, 0, 0, 0.25), 0px 16px 24px rgba(0, 0, 0, 0.25), inset 0px 3px 6px #1959AD',

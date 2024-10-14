@@ -6,8 +6,7 @@ import { caseStudies } from '../constants'
 const Studies = () => {
   
   return <section>
-    <Element name='Use Cases'>
-  <div className='container'>
+  <div className='container '>
     <Title sectionId={1} />
     
     <div className='flex mx-auto my-20 mb-[120px] max-lg:bg-p3 lg:bg-p2 rounded-3xl overflow-x-auto hide-scrollbar snap-x snap-mandatory'>
@@ -29,17 +28,7 @@ const Studies = () => {
     </div>
   ))}
 </div>
-
-
-
-
-
-
-
-
-    
   </div>
-</Element>
 
 </section>
 }

@@ -7,7 +7,7 @@ import Button from '../components/Button'
 
 const Team = () => {
   return <section>
-    <Element>
+    <Element name='Team'>
       <div className='container'>
       <div className='pt-40'>
             <Title sectionId={3}/>
