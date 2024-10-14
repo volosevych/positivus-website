@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/positivus-website/static/css/main.7097160e.css",
+    "main.js": "/positivus-website/static/js/main.f46e0596.js",
+    "index.html": "/positivus-website/index.html",
+    "static/media/carousel-1.svg": "/positivus-website/static/media/carousel-1.d4b0f7d0910ec045493da169f6d0ee01.svg",
+    "static/media/carousel-2.svg": "/positivus-website/static/media/carousel-2.69d9629e23ae7bfa2ec52ab50f5b01cb.svg",
+    "static/media/plus.svg": "/positivus-website/static/media/plus.e1f1e744df3b5e9c9ee03077cfcf0f31.svg",
+    "static/media/minus.svg": "/positivus-website/static/media/minus.e63b7c550bfd9ece948edec4ee20667c.svg",
+    "main.7097160e.css.map": "/positivus-website/static/css/main.7097160e.css.map",
+    "main.f46e0596.js.map": "/positivus-website/static/js/main.f46e0596.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7097160e.css",
+    "static/js/main.f46e0596.js"
+  ]
+}
